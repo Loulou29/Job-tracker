@@ -22,7 +22,7 @@ below to create a local .git file and push my codes to Github:
 2.  Create .gitignore file in project folder, to specify what not to
     upload to Github
 3.  git init
-4.  git add .
+4.  git add README.md README.Rmd jobs.R job_tracker.Rproj
 5.  git status
 6.  git commit -m “first commit”
 7.  git remote add origin
