@@ -29,3 +29,7 @@ below to create a local .git file and push my codes to Github:
     <https://github.com/Loulou29/Housing-visualization.git>
 8.  git branch -M main
 9.  git push -u origin main
+
+Note: Step 7-9 are used when pushing codes to Github for the first time.
+If you pushed your codes to Github already, replace Step 7-9 with “git
+push”.
