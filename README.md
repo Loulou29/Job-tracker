@@ -12,3 +12,20 @@ users to create an Excel sheet with key description of the jobs
 My codes converted job information on an html page into a manageable
 Excel sheet, so that I can prioritize my job applications and not miss
 application deadlines.
+
+## Git workflow
+
+I used the [git commands](https://www.youtube.com/watch?v=wrb7Gge9yoE)
+below to create a local .git file and push my codes to Github:
+
+1.  Open Terminal, type and enter: cd “/project_folder”
+2.  Create .gitignore file in project folder, to specify what not to
+    upload to Github
+3.  git init
+4.  git add .
+5.  git status
+6.  git commit -m “first commit”
+7.  git remote add origin
+    <https://github.com/Loulou29/Housing-visualization.git>
+8.  git branch -M main
+9.  git push -u origin main
